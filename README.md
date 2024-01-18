@@ -1,4 +1,4 @@
-# Snkaes and Ladders Sim
+# Snakes and Ladders Sim
 Simulation of a snakes and ladders board in C as a univerity course work, March 2014.
 
 The program simulates 10 million games of snakes and ladders. This number of games is sufficient to have a broad range of results for meaningful statistics. The program has been written to conform to the rules below, which have been taken from the assignment document:
